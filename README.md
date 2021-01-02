@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+- I'm kythuatwebso
+- My skills are:  PHP, HTML, CSS, JS, ...
+
 
 <!--
 **kythuatwebso/kythuatwebso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
